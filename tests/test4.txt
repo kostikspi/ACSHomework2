@@ -1,0 +1,16 @@
+1
+Assembler 1960 10 0
+2
+Java 1990 13 Single
+1
+Python++ 2012 12 1
+2
+Java# 2021 40 Multiple
+3
+CC+ 2021 45 Dynamic 1
+1
+dyfdst 1999 23 0
+2
+sadj 1977 77 Interface
+2
+AVS++ 2021 99 Multiple

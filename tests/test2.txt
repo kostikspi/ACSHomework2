@@ -1,0 +1,12 @@
+1
+R 1996 12 0
+1
+Rust 2015 7 0
+3
+Elixir 2005 4 Dynamic 1
+2
+Kotlin 2007 9 Single
+1
+Assembler 1960 10 0
+2
+Java 1990 13 Single

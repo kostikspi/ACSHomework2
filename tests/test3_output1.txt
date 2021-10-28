@@ -1,0 +1,13 @@
+Filled container:
+Container has 11 elements.
+Procedural Programming Language: name = c, yearOfCreation = 1995, indexTIOBE = 23.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = c++, yearOfCreation = 1999,indexTIOBE = 22.000000, inheritanceType = Single
+Functional Programming Language: name = Scala, yearOfCreation = 2002,indexTIOBE = 5.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Object Oriented Programming Language: name = c#, yearOfCreation = 2001,indexTIOBE = 32.000000, inheritanceType = Interface
+Procedural Programming Language: name = Python, yearOfCreation = 2003, indexTIOBE = 20.000000, presenceOfADT = 1
+Procedural Programming Language: name = R, yearOfCreation = 1996, indexTIOBE = 12.000000, presenceOfADT = 0
+Procedural Programming Language: name = Rust, yearOfCreation = 2015, indexTIOBE = 7.000000, presenceOfADT = 0
+Functional Programming Language: name = Elixir, yearOfCreation = 2005,indexTIOBE = 4.000000, typingScheme = Principle, supportOfLazyComputations = 1
+Object Oriented Programming Language: name = Kotlin, yearOfCreation = 2007,indexTIOBE = 9.000000, inheritanceType = Single
+Procedural Programming Language: name = Assembler, yearOfCreation = 1960, indexTIOBE = 10.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = Java, yearOfCreation = 1990,indexTIOBE = 13.000000, inheritanceType = Single

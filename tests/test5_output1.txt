@@ -1,0 +1,7 @@
+Filled container:
+Container has 5 elements.
+Procedural Programming Language: name = adshjd, yearOfCreation = 1999, indexTIOBE = 20.000000, presenceOfADT = 1
+Object Oriented Programming Language: name = asdsad, yearOfCreation = 1988,indexTIOBE = 20.000000, inheritanceType = Single
+Functional Programming Language: name = kostik, yearOfCreation = 2002,indexTIOBE = 40.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Object Oriented Programming Language: name = hse#, yearOfCreation = 1992,indexTIOBE = 21.000000, inheritanceType = Interface
+Procedural Programming Language: name = legalov+, yearOfCreation = 2020, indexTIOBE = 99.000000, presenceOfADT = 1

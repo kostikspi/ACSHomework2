@@ -1,0 +1,8 @@
+Filled container:
+Container has 6 elements.
+Procedural Programming Language: name = R, yearOfCreation = 1996, indexTIOBE = 12.000000, presenceOfADT = 0
+Procedural Programming Language: name = Rust, yearOfCreation = 2015, indexTIOBE = 7.000000, presenceOfADT = 0
+Functional Programming Language: name = Elixir, yearOfCreation = 2005,indexTIOBE = 4.000000, typingScheme = Principle, supportOfLazyComputations = 1
+Object Oriented Programming Language: name = Kotlin, yearOfCreation = 2007,indexTIOBE = 9.000000, inheritanceType = Single
+Procedural Programming Language: name = Assembler, yearOfCreation = 1960, indexTIOBE = 10.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = Java, yearOfCreation = 1990,indexTIOBE = 13.000000, inheritanceType = Single

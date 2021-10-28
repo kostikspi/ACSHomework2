@@ -1,0 +1,5 @@
+Container without elements lower then average: 
+Container has 3 elements.
+Object Oriented Programming Language: name = sx4L8, yearOfCreation = 2019,indexTIOBE = 3.000000, inheritanceType = Multiple
+Procedural Programming Language: name = LQVnrt, yearOfCreation = 1981, indexTIOBE = 12.000000, presenceOfADT = 1
+Object Oriented Programming Language: name = rzMy#gfV5h, yearOfCreation = 2008,indexTIOBE = 80.000000, inheritanceType = Single

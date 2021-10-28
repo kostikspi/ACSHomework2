@@ -1,0 +1,10 @@
+1
+adshjd 1999 20 1
+2
+asdsad 1988 20 Single
+3
+kostik 2002 40 Dynamic 0
+2
+hse# 1992 21 Interface
+1
+legalov+ 2020 99 1

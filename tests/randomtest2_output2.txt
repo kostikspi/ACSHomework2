@@ -1,0 +1,85 @@
+Container without elements lower then average: 
+Container has 83 elements.
+Functional Programming Language: name = G1lY9S+vaqEO88a, yearOfCreation = 2015,indexTIOBE = 88.000000, typingScheme = Principle, supportOfLazyComputations = 1
+Functional Programming Language: name = d4, yearOfCreation = 1977,indexTIOBE = 81.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Procedural Programming Language: name = lzD4jzCS8V, yearOfCreation = 1964, indexTIOBE = 96.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = K, yearOfCreation = 2016,indexTIOBE = 61.000000, inheritanceType = Multiple
+Functional Programming Language: name = X.5wxXFM#l2, yearOfCreation = 1960,indexTIOBE = 0.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Object Oriented Programming Language: name = CJ4iimIck, yearOfCreation = 2013,indexTIOBE = 30.000000, inheritanceType = Interface
+Procedural Programming Language: name = 73.xfkJwDqrGr, yearOfCreation = 1969, indexTIOBE = 90.000000, presenceOfADT = 1
+Procedural Programming Language: name = NPMzkQ5leK2R, yearOfCreation = 2011, indexTIOBE = 66.000000, presenceOfADT = 1
+Functional Programming Language: name = Rc0RNrZoLlYDt, yearOfCreation = 2020,indexTIOBE = 60.000000, typingScheme = Principle, supportOfLazyComputations = 1
+Functional Programming Language: name = L5uYL, yearOfCreation = 2011,indexTIOBE = 51.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Object Oriented Programming Language: name = UD0cchOJUj, yearOfCreation = 1993,indexTIOBE = 63.000000, inheritanceType = Interface
+Object Oriented Programming Language: name = jjrMFM8lynJ3XT, yearOfCreation = 1994,indexTIOBE = 24.000000, inheritanceType = Multiple
+Functional Programming Language: name = +gK+mCfxjiAq, yearOfCreation = 2019,indexTIOBE = 11.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Functional Programming Language: name = u6MWrEsf6sa, yearOfCreation = 1957,indexTIOBE = 76.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Functional Programming Language: name = QMVb2, yearOfCreation = 1969,indexTIOBE = 90.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Functional Programming Language: name = Vw7zX7, yearOfCreation = 2015,indexTIOBE = 13.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Functional Programming Language: name = Rh, yearOfCreation = 1963,indexTIOBE = 71.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Functional Programming Language: name = E, yearOfCreation = 2007,indexTIOBE = 22.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Procedural Programming Language: name = Sjz1GRJQPbh, yearOfCreation = 1977, indexTIOBE = 89.000000, presenceOfADT = 0
+Procedural Programming Language: name = qTrrHssmYgPhj, yearOfCreation = 1970, indexTIOBE = 21.000000, presenceOfADT = 1
+Object Oriented Programming Language: name = l5wTFN., yearOfCreation = 1974,indexTIOBE = 33.000000, inheritanceType = Single
+Procedural Programming Language: name = i#7u4QvT0ykno, yearOfCreation = 1993, indexTIOBE = 35.000000, presenceOfADT = 0
+Functional Programming Language: name = HYF5qNT, yearOfCreation = 1994,indexTIOBE = 17.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Object Oriented Programming Language: name = R9BP1, yearOfCreation = 2008,indexTIOBE = 18.000000, inheritanceType = Single
+Procedural Programming Language: name = ENVQeGca0j9Vf, yearOfCreation = 1994, indexTIOBE = 97.000000, presenceOfADT = 1
+Functional Programming Language: name = C7+vhUwXzv7I, yearOfCreation = 2018,indexTIOBE = 39.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Functional Programming Language: name = J, yearOfCreation = 1998,indexTIOBE = 34.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Procedural Programming Language: name = GLdIzsa, yearOfCreation = 2008, indexTIOBE = 95.000000, presenceOfADT = 0
+Procedural Programming Language: name = xej5OiRJr1N, yearOfCreation = 1963, indexTIOBE = 86.000000, presenceOfADT = 1
+Procedural Programming Language: name = m, yearOfCreation = 1980, indexTIOBE = 77.000000, presenceOfADT = 0
+Functional Programming Language: name = c50lisCJ#T, yearOfCreation = 2014,indexTIOBE = 15.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Object Oriented Programming Language: name = DCduoueeDT, yearOfCreation = 1987,indexTIOBE = 69.000000, inheritanceType = Multiple
+Functional Programming Language: name = y, yearOfCreation = 2019,indexTIOBE = 8.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Procedural Programming Language: name = 41Kgi.UNcS28, yearOfCreation = 1980, indexTIOBE = 51.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = w1L+uTUm05, yearOfCreation = 1962,indexTIOBE = 58.000000, inheritanceType = Single
+Functional Programming Language: name = tDlzj3Bh, yearOfCreation = 1983,indexTIOBE = 66.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Object Oriented Programming Language: name = BZHT, yearOfCreation = 1962,indexTIOBE = 33.000000, inheritanceType = Multiple
+Functional Programming Language: name = TEmyilgSpH, yearOfCreation = 1973,indexTIOBE = 94.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Procedural Programming Language: name = aZ91qZ8nH91Y, yearOfCreation = 1967, indexTIOBE = 89.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = #v2TXEgZjftPVWy, yearOfCreation = 1990,indexTIOBE = 85.000000, inheritanceType = Single
+Functional Programming Language: name = pPn5.QsCKxRlV, yearOfCreation = 1968,indexTIOBE = 95.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Functional Programming Language: name = t+FE.eW.v.5p8, yearOfCreation = 1983,indexTIOBE = 14.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Procedural Programming Language: name = IZXRDaY9D##, yearOfCreation = 1988, indexTIOBE = 88.000000, presenceOfADT = 0
+Functional Programming Language: name = O#h.s, yearOfCreation = 1966,indexTIOBE = 96.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Procedural Programming Language: name = OTg3Pd0OijP, yearOfCreation = 1988, indexTIOBE = 39.000000, presenceOfADT = 0
+Functional Programming Language: name = O, yearOfCreation = 1964,indexTIOBE = 85.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Procedural Programming Language: name = IFFZ4XA2KmnSFC, yearOfCreation = 2013, indexTIOBE = 54.000000, presenceOfADT = 0
+Procedural Programming Language: name = d+XHQes, yearOfCreation = 2003, indexTIOBE = 43.000000, presenceOfADT = 0
+Procedural Programming Language: name = 40aeYD9SoMDW, yearOfCreation = 1986, indexTIOBE = 62.000000, presenceOfADT = 1
+Object Oriented Programming Language: name = fS6E, yearOfCreation = 2011,indexTIOBE = 26.000000, inheritanceType = Interface
+Functional Programming Language: name = IDH#Q, yearOfCreation = 1971,indexTIOBE = 81.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Functional Programming Language: name = Sq1syXBm, yearOfCreation = 2014,indexTIOBE = 16.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Functional Programming Language: name = 6s42yb#PLB, yearOfCreation = 1993,indexTIOBE = 28.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Object Oriented Programming Language: name = kv, yearOfCreation = 1957,indexTIOBE = 84.000000, inheritanceType = Single
+Functional Programming Language: name = CH51o, yearOfCreation = 2018,indexTIOBE = 81.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Functional Programming Language: name = qIimH4X, yearOfCreation = 1977,indexTIOBE = 81.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Object Oriented Programming Language: name = #vc0PLW0kSVuKv, yearOfCreation = 1990,indexTIOBE = 86.000000, inheritanceType = Single
+Functional Programming Language: name = eXD3, yearOfCreation = 2013,indexTIOBE = 94.000000, typingScheme = Principle, supportOfLazyComputations = 1
+Procedural Programming Language: name = S7dye, yearOfCreation = 2010, indexTIOBE = 70.000000, presenceOfADT = 1
+Functional Programming Language: name = 8MM, yearOfCreation = 1983,indexTIOBE = 91.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Procedural Programming Language: name = .NvPE4Ny, yearOfCreation = 2017, indexTIOBE = 53.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = hHI7Sx6a, yearOfCreation = 1960,indexTIOBE = 76.000000, inheritanceType = Multiple
+Object Oriented Programming Language: name = PTBfANrFGnaq, yearOfCreation = 1983,indexTIOBE = 5.000000, inheritanceType = Single
+Functional Programming Language: name = 2svbITywbcr8, yearOfCreation = 1960,indexTIOBE = 58.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Procedural Programming Language: name = 0fePEiTk3ru1W, yearOfCreation = 1982, indexTIOBE = 34.000000, presenceOfADT = 0
+Procedural Programming Language: name = 5#jFdm, yearOfCreation = 1997, indexTIOBE = 6.000000, presenceOfADT = 0
+Procedural Programming Language: name = lAP1s.wY1, yearOfCreation = 1977, indexTIOBE = 30.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = urjr7, yearOfCreation = 2018,indexTIOBE = 6.000000, inheritanceType = Interface
+Object Oriented Programming Language: name = J4pvMl9uexv, yearOfCreation = 2014,indexTIOBE = 97.000000, inheritanceType = Interface
+Functional Programming Language: name = kssZ20EKf, yearOfCreation = 1964,indexTIOBE = 9.000000, typingScheme = Principle, supportOfLazyComputations = 1
+Functional Programming Language: name = rM85B4kWw9CS, yearOfCreation = 2014,indexTIOBE = 31.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Functional Programming Language: name = faFj, yearOfCreation = 2008,indexTIOBE = 59.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Functional Programming Language: name = x8oJwrsOiD, yearOfCreation = 1965,indexTIOBE = 56.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
+Procedural Programming Language: name = g47r, yearOfCreation = 1984, indexTIOBE = 71.000000, presenceOfADT = 0
+Object Oriented Programming Language: name = 3Metsbuo0n2q0, yearOfCreation = 1972,indexTIOBE = 36.000000, inheritanceType = Interface
+Object Oriented Programming Language: name = 2nKJVxUbjB, yearOfCreation = 1970,indexTIOBE = 5.000000, inheritanceType = Multiple
+Procedural Programming Language: name = 3gY+., yearOfCreation = 1994, indexTIOBE = 94.000000, presenceOfADT = 1
+Procedural Programming Language: name = WqD1G#Rc.M, yearOfCreation = 1999, indexTIOBE = 34.000000, presenceOfADT = 0
+Functional Programming Language: name = TI, yearOfCreation = 1960,indexTIOBE = 15.000000, typingScheme = Dynamic, supportOfLazyComputations = 0
+Object Oriented Programming Language: name = X+f0p, yearOfCreation = 1972,indexTIOBE = 50.000000, inheritanceType = Interface
+Procedural Programming Language: name = Dz, yearOfCreation = 1957, indexTIOBE = 13.000000, presenceOfADT = 1
+Functional Programming Language: name = FLw7sjSRlK, yearOfCreation = 2014,indexTIOBE = 73.000000, typingScheme = Principle, supportOfLazyComputations = 0
+Functional Programming Language: name = K#AZOH7tq7H#F, yearOfCreation = 1970,indexTIOBE = 7.000000, typingScheme = Dynamic, supportOfLazyComputations = 1
